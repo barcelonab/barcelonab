@@ -41,7 +41,7 @@
     
 ---
 <h3>Where to find me</h3>
-<p><a href="https://github.com/barcelonab" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.notion.so/Billie-Barcelona-BI-Developer-IT-Administrator-2752a80f72ee80759ca5f107bb18f673?pvs=12"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" /></a> <a href="https://www.linkedin.com/in/billie-barcelona" target="_blank"><img alt="LinkedIn" src="<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p><a href="https://github.com/barcelonab" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.notion.so/Billie-Barcelona-BI-Developer-IT-Administrator-2752a80f72ee80759ca5f107bb18f673?pvs=12"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" /></a> <a href="https://www.linkedin.com/in/billie-barcelona" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 ---
