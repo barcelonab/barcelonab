@@ -1,4 +1,4 @@
-# <h1 align="center">📊 Billie Barcelona 🖥️</h1>
+# <h2 align="center">📊 Billie Barcelona 🖥️</h2>
 
 <p align="Left">
   <b>Hi There!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
@@ -7,9 +7,9 @@
   I specialize in building end-to-end data solutions from data modeling and ETL development to designing user-friendly reports that support data-driven decisions.
 </p>
 
-## 🛠 Skills & Tools
+<h3>🛠 Skills & Tools</h3>
 <p align="center">
-  💻 Python | 🗄️ SQL | SQL Server | MySQL | OracleDB | | 📊 Power BI | ☁️ Microsoft Fabric | 📁 Azure Data Lake | Excel | ⚙️ ETL Development | 🧰 Git & GitHub
+  <img src="Images/Python.jpg" width="30px">Python | <img src="Images/Python.jpg" width="30px">SQL | <img src="Images/Python.jpg" width="30px">SQL Server | <img src="Images/Python.jpg" width="30px">MySQL | <img src="Images/Python.jpg" width="30px">OracleDB | | <img src="Images/Python.jpg" width="30px">Power BI | <img src="Images/Python.jpg" width="30px">Microsoft Fabric | <img src="Images/Python.jpg" width="30px">Azure Data Lake | <img src="Images/Python.jpg" width="30px">Excel | ⚙️ETL Development | <img src="Images/Python.jpg" width="30px">Git & GitHub
 </p>
 
 ---
