@@ -1,7 +1,7 @@
 # <h1 align="center">📊 Billie Barcelona 🖥️</h1>
 
 <p align="Left">
-  <b>Hi There!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <b>Hi There!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
   <br>
   I’m a BI Developer with strong background in transforming raw data into meaningful insights and interactive dashboards.<br>
   I specialize in building end-to-end data solutions from data modeling and ETL development to designing user-friendly reports that support data-driven decisions.
