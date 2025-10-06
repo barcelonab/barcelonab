@@ -29,7 +29,10 @@
   <li><b>Database Management</b> – Designed and optimized RDBMS (on-prem & cloud) for storing and querying large datasets efficiently.</li>
   <li><b>AI-Powered Insights</b> – Built predictive models and AI analytics dashboards using Python and Power BI to generate actionable insights.</li>
   <li><b>Interactive Data Visualization</b> – Created interactive dashboards and visual reports in Power BI to support data-driven decision-making.</li>
-  <li><b>Dashboards</b> – Interactive dashboards using Power BI.</li>
+  <li><b>Dashboards</b> – Interactive dashboards using Power BI.</li>&nbsp;&nbsp;&nbsp;
+
+  <b>[Sales Summary]:</b> (https://app.fabric.microsoft.com/view?r=eyJrIjoiZTQ0NDAzM2EtNjNhZi00MWVmLWJkNGQtNDA0NDJlNTU5NmQwIiwidCI6ImVmZGNhNGNlLWQ5NDUtNGJhZi05ZmQ5LTMyZjc1ODI1N2FiMyJ9)  
+  <b>[Worldwide Earthquake Events]:</b> (https://github.com/barcelonab/Worldwide-Earthquake-Events) 
 
 ---
 
@@ -38,5 +41,4 @@
 </p>
    </p>
 
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
+
