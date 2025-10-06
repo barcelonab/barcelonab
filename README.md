@@ -1,18 +1,39 @@
 # <h1 align="center">📊 Billie Barcelona 🖥️</h1>
 
-## Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> #
+<p align="Left">
+  <b>Hi There!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <br>
+  I’m a BI Developer with strong background in transforming raw data into meaningful insights and interactive dashboards.<br>
+  I specialize in building end-to-end data solutions from data modeling and ETL development to designing user-friendly reports that support data-driven decisions.
+</p>
 
-I’m a BI Developer with strong background in transforming raw data into meaningful insights and interactive dashboards. I specialize in building end-to-end data solutions from data modeling and ETL development to designing user-friendly reports that support data-driven decisions.
+## 🛠 Skills & Tools
+<p align="center">
+  💻 Python | 🗄️ SQL | SQL Server | MySQL | OracleDB | | 📊 Power BI | ☁️ Microsoft Fabric | 📁 Azure Data Lake | Excel | ⚙️ ETL Development | 🧰 Git & GitHub
+</p>
 
-   <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+---
+
+## 🏆 Certifications
+<p align="center">
+  <img src="images/powerbi-badge.png" width="120px" alt="Power BI Certificate">  
+  <img src="images/fabric-badge.png" width="120px" alt="Fabric Certificate">
+</p>
+
+---
+
+## 📂 Featured Projects
+<p align="center">
+- **Sales Dashboard** – Interactive dashboards using Power BI.<br>
+- **Automated ETL Pipelines** – Python & SQL pipelines for data integration.<br>
+- **Data Visualizations** – Reports & visual dashboards for analytics insights.
+</p>
+
+---
+
+<p align="center">
+  🚀 Feel free to explore my repositories and check out my work!
+</p>
    </p>
 
 ### 📊 Stats
