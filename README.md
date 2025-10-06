@@ -9,7 +9,7 @@
 
 ## 🛠 Skills & Tools
 <p align="center">
-  💻 Python | 🗄️ SQL | SQL Server | MySQL | OracleDB | | 📊 Power BI | ☁️ Microsoft Fabric | 📁 Azure Data Lake | Excel | ⚙️ ETL Development | 🧰 Git & GitHub
+  <img src="Images/Python.jpg" width="30px"> Python | 🗄️ SQL | SQL Server | MySQL | OracleDB | | 📊 Power BI | ☁️ Microsoft Fabric | 📁 Azure Data Lake | Excel | ⚙️ ETL Development | 🧰 Git & GitHub
 </p>
 
 ---
