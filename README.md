@@ -7,27 +7,25 @@
   I specialize in building end-to-end data solutions from data modeling and ETL development to designing user-friendly reports that support data-driven decisions.
 </p>
 
+---
+
 <h3>🛠 Skills & Tools</h3>
 <p align="center">
-  <img src="Images/Python.jpg" width="30px">Python | <img src="Images/Python.jpg" width="30px">SQL | <img src="Images/Python.jpg" width="30px">SQL Server | <img src="Images/Python.jpg" width="30px">MySQL | <img src="Images/Python.jpg" width="30px">OracleDB | | <img src="Images/Python.jpg" width="30px">Power BI | <img src="Images/Python.jpg" width="30px">Microsoft Fabric | <img src="Images/Python.jpg" width="30px">Azure Data Lake | <img src="Images/Python.jpg" width="30px">Excel | ⚙️ETL Development | <img src="Images/Python.jpg" width="30px">Git & GitHub
+  <img src="Images/Python.jpg" width="40px">Python | <img src="Images/SQL.png" width="20px">SQL | <img src="Images/SQLServer.jpg" width="40px">SQL Server | <img src="Images/MYSQL.png" width="30px">MySQL | <img src="Images/Oracle.jpg" width="30px">OracleDB | | <img src="Images/Power BI.jpg" width="40px">Power BI | <img src="Images/Fabric.png" width="40px">Microsoft Fabric | <img src="Images/Azure.png" width="50px">Azure Data Lake | <img src="Images/Excel.png" width="20px">Excel | ⚙️ETL Development | <img src="Images/Github.png" width="25px">Git & GitHub
 </p>
 
 ---
 
 ## 🏆 Certifications
-<p align="center">
-  <img src="images/powerbi-badge.png" width="120px" alt="Power BI Certificate">  
-  <img src="images/fabric-badge.png" width="120px" alt="Fabric Certificate">
-</p>
+  - <img src="images/powerbi-badge.png" width="120px" alt="Power BI Certificate">  
+  - <img src="images/fabric-badge.png" width="120px" alt="Fabric Certificate">
 
 ---
 
 ## 📂 Featured Projects
-<p align="center">
 - **Sales Dashboard** – Interactive dashboards using Power BI.<br>
 - **Automated ETL Pipelines** – Python & SQL pipelines for data integration.<br>
 - **Data Visualizations** – Reports & visual dashboards for analytics insights.
-</p>
 
 ---
 
