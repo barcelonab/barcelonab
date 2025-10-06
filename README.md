@@ -32,8 +32,13 @@
   <li><b>Dashboards</b> – Interactive dashboards using Power BI.</li>&nbsp;&nbsp;&nbsp;
 
   <b>[Sales Summary]:</b> (https://app.fabric.microsoft.com/view?r=eyJrIjoiZTQ0NDAzM2EtNjNhZi00MWVmLWJkNGQtNDA0NDJlNTU5NmQwIiwidCI6ImVmZGNhNGNlLWQ5NDUtNGJhZi05ZmQ5LTMyZjc1ODI1N2FiMyJ9)  
-  <b>[Worldwide Earthquake Events]:</b> (https://github.com/barcelonab/Worldwide-Earthquake-Events) 
-
+  <b>[Worldwide Earthquake Events]:</b> (https://github.com/barcelonab/Worldwide-Earthquake-Events)  
+  <b>[Credit Card Key Influencer]:</b> (https://github.com/barcelonab/Worldwide-Earthquake-Events)  
+  <b>[Salesforce Sales Return]:</b> (https://github.com/barcelonab/Worldwide-Earthquake-Events)  
+  <b>[Healthcare Financial Analysis]:</b> (https://github.com/barcelonab/Worldwide-Earthquake-Events)  
+  <b>[Healthcare Financial Analysis]:</b> (https://github.com/barcelonab/Worldwide-Earthquake-Events)  
+  <b>[Healthcare Financial Analysis]:</b> (https://github.com/barcelonab/Worldwide-Earthquake-Events)  
+    
 ---
 
 <p align="center">
