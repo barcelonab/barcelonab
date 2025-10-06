@@ -1,4 +1,4 @@
-# <h2 align="center">📊 Billie Barcelona 🖥️</h2>
+# <h2 align="center"><img src="Images/Data Scientist.png" width="35px">Billie Barcelona </h2>
 
 <p align="Left">
   <b>Hi There!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
