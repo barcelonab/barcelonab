@@ -25,8 +25,18 @@
     <b>DP-600 – Microsoft Certified: Fabric Analytics Engineer Associate</b>
   </a>
 </li>
-  <li><img src="Images/License Logo.png" width="40px">  <b>PL-300 - Microsof Certified: Power BI Data Analyst Associate</b></li>
-  <li><img src="Images/A+.png" width="40px"> <b>CompTIA A+</b></li>
+<li>
+  <a href="Images/PL-300.png" target="_blank">
+    <img src="Images/License Logo.png" width="40px">
+    <b>PL-300 - Microsof Certified: Power BI Data Analyst Associate</b>
+  </a>
+</li>
+<li>
+  <a href="Images/DP-600.png" target="_blank">
+    <img src="Images/A+.png" width="40px"> 
+    <b>CompTIA A+</b>
+  </a>
+</li>
   
 ---
 
