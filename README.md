@@ -33,7 +33,7 @@
 </li>
 <li>
   <a href="Images/DP-600.png" target="_blank">
-    <img src="Images/A+.png" width="40px"> 
+    <img src="Images/CompTIA A+.png" width="40px"> 
     <b>CompTIA A+</b>
   </a>
 </li>
