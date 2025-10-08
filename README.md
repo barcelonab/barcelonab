@@ -20,15 +20,15 @@
 
 <h3>🏆 Certifications</h3>
 <li>
-  <a href="Images/DP-600.png" target="_blank">
-    <img src="Images/License Logo.png" width="40px">
-    <b>DP-600 – Microsoft Certified: Fabric Analytics Engineer Associate</b>
-  </a>
-</li>
-<li>
   <a href="Images/PL-300.png" target="_blank">
     <img src="Images/License Logo.png" width="40px">
     <b>PL-300 - Microsof Certified: Power BI Data Analyst Associate</b>
+  </a>
+</li>
+<li>
+  <a href="Images/DP-600.png" target="_blank">
+    <img src="Images/License Logo.png" width="40px">
+    <b>DP-600 – Microsoft Certified: Fabric Analytics Engineer Associate</b>
   </a>
 </li>
 <li>
