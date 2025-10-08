@@ -49,6 +49,8 @@
 <p align="center">
   🚀 Feel free to explore my repositories and check out my work!
 </p>
-   </p>
+<p align="center">
+  <img src="https://example.com/typing-animation.gif" width="160px" alt="Typing animation">
+</p>
 
 
