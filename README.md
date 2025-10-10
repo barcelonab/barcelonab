@@ -44,7 +44,7 @@
 
 <b>[Cost and Revenue Summary](https://app.fabric.microsoft.com/view?r=eyJrIjoiZTQ0NDAzM2EtNjNhZi00MWVmLWJkNGQtNDA0NDJlNTU5NmQwIiwidCI6ImVmZGNhNGNlLWQ5NDUtNGJhZi05ZmQ5LTMyZjc1ODI1N2FiMyJ9)</b>   
 <b>[Worldwide Earthquake Events](https://github.com/barcelonab/Worldwide-Earthquake-Events)</b>   
-<b>[Credit Card Key Influencer](https://github.com/barcelonab/Worldwide-Earthquake-Events)</b>   
+<b>[Credit Card Key Influencer](https://github.com/barcelonab/credit-card-key-influencer)</b>   
 <b>[Salesforce Sales Return](https://app.powerbi.com/view?r=eyJrIjoiMjEyMTYwOGMtOWNjNi00Y2ViLWI1M2EtMGVhZGNlMGZkN2Y3IiwidCI6ImVmZGNhNGNlLWQ5NDUtNGJhZi05ZmQ5LTMyZjc1ODI1N2FiMyJ9)</b>   
 <b>[Gym Workout Activity](https://app.fabric.microsoft.com/view?r=eyJrIjoiMGUwY2UwZjAtMmU3Yi00ZWIzLWE4N2ItYzczN2FkNDIyZjYzIiwidCI6ImVmZGNhNGNlLWQ5NDUtNGJhZi05ZmQ5LTMyZjc1ODI1N2FiMyJ9)</b>   
 <b>[Healthcare Financial Analysis](https://app.powerbi.com/view?r=eyJrIjoiZGZhNTcyOGItMjZmNy00MTU0LWJhNGItMmI1YjAxZTZjY2VjIiwidCI6ImVmZGNhNGNlLWQ5NDUtNGJhZi05ZmQ5LTMyZjc1ODI1N2FiMyJ9)</b>   
