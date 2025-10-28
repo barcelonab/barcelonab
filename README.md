@@ -50,7 +50,7 @@
 <b>[Healthcare Financial Analysis](https://app.powerbi.com/view?r=eyJrIjoiZGZhNTcyOGItMjZmNy00MTU0LWJhNGItMmI1YjAxZTZjY2VjIiwidCI6ImVmZGNhNGNlLWQ5NDUtNGJhZi05ZmQ5LTMyZjc1ODI1N2FiMyJ9)</b>   
 <b>[Patient Visits Report](https://app.fabric.microsoft.com/view?r=eyJrIjoiMTIwZmM1OTQtNTcyMi00MDNjLWIwMDUtOTFiODQ2MTkzMGExIiwidCI6ImVmZGNhNGNlLWQ5NDUtNGJhZi05ZmQ5LTMyZjc1ODI1N2FiMyJ9)</b>   
 <b>[Covid-19 Data Insights](https://app.fabric.microsoft.com/view?r=eyJrIjoiZjQ2OGRhNGEtMzQ4NS00MjE1LTk3ZmYtYjkyYmE3Y2QzOTgzIiwidCI6ImVmZGNhNGNlLWQ5NDUtNGJhZi05ZmQ5LTMyZjc1ODI1N2FiMyJ9)</b>   
-<b>[Weather Forecast](https://app.fabric.microsoft.com/reportEmbed?reportId=bb076a6b-bee7-47d7-9654-feda95592801&autoAuth=true&ctid=efdca4ce-d945-4baf-9fd9-32f758257ab3)</b>   
+<b>[Weather Forecast](https://github.com/barcelonab/weather-forecast)</b>   
   
   <li><b>Automated ETL Pipelines</b> – Python & SQL pipelines for data integration.</li>
   <li><b>Database Management</b> – Designed and optimized RDBMS (on-prem & cloud) for storing and querying large datasets efficiently.</li>
