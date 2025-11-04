@@ -65,7 +65,7 @@
 <b>[Gym Workout Activity](https://app.fabric.microsoft.com/view?r=eyJrIjoiMGUwY2UwZjAtMmU3Yi00ZWIzLWE4N2ItYzczN2FkNDIyZjYzIiwidCI6ImVmZGNhNGNlLWQ5NDUtNGJhZi05ZmQ5LTMyZjc1ODI1N2FiMyJ9)</b>   
 <b>[Healthcare Financial Analysis](https://app.powerbi.com/view?r=eyJrIjoiZGZhNTcyOGItMjZmNy00MTU0LWJhNGItMmI1YjAxZTZjY2VjIiwidCI6ImVmZGNhNGNlLWQ5NDUtNGJhZi05ZmQ5LTMyZjc1ODI1N2FiMyJ9)</b>   
 <b>[Patient Visits Report](https://app.fabric.microsoft.com/view?r=eyJrIjoiMTIwZmM1OTQtNTcyMi00MDNjLWIwMDUtOTFiODQ2MTkzMGExIiwidCI6ImVmZGNhNGNlLWQ5NDUtNGJhZi05ZmQ5LTMyZjc1ODI1N2FiMyJ9)</b>   
-<b>[Covid-19 Data Insights](https://app.fabric.microsoft.com/view?r=eyJrIjoiZjQ2OGRhNGEtMzQ4NS00MjE1LTk3ZmYtYjkyYmE3Y2QzOTgzIiwidCI6ImVmZGNhNGNlLWQ5NDUtNGJhZi05ZmQ5LTMyZjc1ODI1N2FiMyJ9)</b>   +
+<b>[Covid-19 Data Insights](https://app.fabric.microsoft.com/view?r=eyJrIjoiZjQ2OGRhNGEtMzQ4NS00MjE1LTk3ZmYtYjkyYmE3Y2QzOTgzIiwidCI6ImVmZGNhNGNlLWQ5NDUtNGJhZi05ZmQ5LTMyZjc1ODI1N2FiMyJ9)</b>
 <b>[Weather Forecast](https://github.com/barcelonab/weather-forecast)</b>   
   
   <li><b>Automated ETL Pipelines</b> – Python & SQL pipelines for data integration.</li>
