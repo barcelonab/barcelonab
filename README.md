@@ -59,6 +59,7 @@
 <h3>📂 Featured Projects</h3>
 
 <b>[Cost and Revenue Summary](https://app.fabric.microsoft.com/view?r=eyJrIjoiZTQ0NDAzM2EtNjNhZi00MWVmLWJkNGQtNDA0NDJlNTU5NmQwIiwidCI6ImVmZGNhNGNlLWQ5NDUtNGJhZi05ZmQ5LTMyZjc1ODI1N2FiMyJ9)</b>   
+<b>[Price Comparison](https://app.fabric.microsoft.com/view?r=eyJrIjoiZmJiZWYyYmItM2M3YS00N2ZiLWJkNTItYWY0NjhhNjVhYWZkIiwidCI6IjBiNGQ5NWQzLTE0YzctNDY2Ny1hZjdmLTM5YWVmZDk2ZGJkNiIsImMiOjZ9)</b>   
 <b>[Worldwide Earthquake Events](https://github.com/barcelonab/Worldwide-Earthquake-Events)</b>   
 <b>[Credit Card Key Influencer](https://github.com/barcelonab/credit-card-key-influencer)</b>   
 <b>[Salesforce Sales Return](https://app.powerbi.com/view?r=eyJrIjoiMjEyMTYwOGMtOWNjNi00Y2ViLWI1M2EtMGVhZGNlMGZkN2Y3IiwidCI6ImVmZGNhNGNlLWQ5NDUtNGJhZi05ZmQ5LTMyZjc1ODI1N2FiMyJ9)</b>   
