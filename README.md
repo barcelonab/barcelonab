@@ -29,7 +29,8 @@
   &nbsp;&nbsp;<img src="Images/Excel.png" width="20px"> Excel &nbsp;| 
   &nbsp;&nbsp;⚙️ETL Development &nbsp;| 
   &nbsp;&nbsp;<img src="Images/Github.png" width="25px"> GitHub &nbsp;| 
-  &nbsp;&nbsp;<img src="Images/git.png" width="20px"> Git &nbsp;
+  &nbsp;&nbsp;<img src="Images/git.png" width="20px"> Git &nbsp;| 
+  &nbsp;&nbsp;<img src="Images/AWS.png" width="20px"> AWS &nbsp;
 </p>
 
 ---
