@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/billie-barcelona" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/barcelonab" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.notion.so/Billie-Barcelona-BI-Developer-IT-Administrator-2752a80f72ee80759ca5f107bb18f673?pvs=12"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" /></a>
-  <a href="https://app.fabric.microsoft.com/view?r=eyJrIjoiMjFlZWMyMTMtMDk3Yi00ODg3LWE3YmEtZTQ0ZmRkMjc2MTI1IiwidCI6ImVmZGNhNGNlLWQ5NDUtNGJhZi05ZmQ5LTMyZjc1ODI1N2FiMyJ9"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?&style=for-the-badge&logo=power-bi&logoColor=black" /></a>
+  <a href="https://app.fabric.microsoft.com/view?r=eyJrIjoiMzYyNDdjZGEtMWQ5ZC00Y2RhLWEyODctZDZmNmRiOGU1ZTk2IiwidCI6IjBiNGQ5NWQzLTE0YzctNDY2Ny1hZjdmLTM5YWVmZDk2ZGJkNiIsImMiOjZ9" /></a>
 </p>
 
 <p align="Left">
